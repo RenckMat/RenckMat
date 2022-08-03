@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Matheus
 
-- 🔭 Hoje estou trabalhando com fron-end
+- 🔭 Hoje estou trabalhando com front-end
 - 🌱 Estudando JavaScript e Python
 
 ## 
