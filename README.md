@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Matheus
 
-- 🔭 Hoje estou trabalhando com um pouquinho de cada
+- 🔭 Atualmente estou trabalhando com um pouquinho de cada área
 - 🌱 Estudando JavaScript e Python
 
 ## 
